@@ -1,0 +1,20 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.suggestionsList{
+    margin:0 auto;
+    align-content: center;
+    max-width: 500px;
+    height:100%;
+    background-color: "#"
+}
+form{
+    max-width:500px;
+    margin: 0 auto;
+    border-top: 1px black;
+    text-align:center;
+}
+.commentTitle{
+    margin: 0 auto;
+    text-align:center;
+}
